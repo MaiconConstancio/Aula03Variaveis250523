@@ -1,0 +1,7 @@
+C:\Users\maicon.sconstancio\source\repos\Aula03Variaveis\Aula03Variaveis\bin\Debug\Aula03Variaveis.exe.config
+C:\Users\maicon.sconstancio\source\repos\Aula03Variaveis\Aula03Variaveis\bin\Debug\Aula03Variaveis.exe
+C:\Users\maicon.sconstancio\source\repos\Aula03Variaveis\Aula03Variaveis\bin\Debug\Aula03Variaveis.pdb
+C:\Users\maicon.sconstancio\source\repos\Aula03Variaveis\Aula03Variaveis\obj\Debug\Aula03Variaveis.csproj.AssemblyReference.cache
+C:\Users\maicon.sconstancio\source\repos\Aula03Variaveis\Aula03Variaveis\obj\Debug\Aula03Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\maicon.sconstancio\source\repos\Aula03Variaveis\Aula03Variaveis\obj\Debug\Aula03Variaveis.exe
+C:\Users\maicon.sconstancio\source\repos\Aula03Variaveis\Aula03Variaveis\obj\Debug\Aula03Variaveis.pdb
